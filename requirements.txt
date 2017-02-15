@@ -1,0 +1,7 @@
+Django==1.10.5
+Markdown==2.6.8
+PyJWT==1.4.2
+django-filter==1.0.1
+djangorestframework==3.5.3
+djangorestframework-jwt==1.9.0
+wsgiref==0.1.2
